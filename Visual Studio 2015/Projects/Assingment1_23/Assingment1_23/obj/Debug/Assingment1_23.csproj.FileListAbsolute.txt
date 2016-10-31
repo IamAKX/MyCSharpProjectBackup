@@ -1,0 +1,6 @@
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\bin\Debug\Assingment1_23.exe.config
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\bin\Debug\Assingment1_23.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\bin\Debug\Assingment1_23.pdb
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\obj\Debug\Assingment1_23.csprojResolveAssemblyReference.cache
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\obj\Debug\Assingment1_23.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assingment1_23\Assingment1_23\obj\Debug\Assingment1_23.pdb

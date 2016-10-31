@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Default.master.cs" Inherits="_Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <style type="text/css">
+        .newStyle1 {
+            font-family: "Buxton Sketch";
+            font-size: xx-large;
+        }
+        .newStyle2 {
+            font-size: 70pt;
+        }
+        .newStyle3 {
+            font-size: 70px;
+        }
+        .newStyle4 {
+            font-size: 70px;
+           
+        }
+        .newStyle5 {
+            font-size: 70pt;
+        }
+        .newStyle6 {
+            font-size: 80pt;
+        }
+        .newStyle7 {
+            font-size: 95pt;
+        }
+        .auto-style1 {
+            width: 210px;
+            height: 237px;
+            text-align: center;
+            margin-left: 0px;
+        }
+        .auto-style3 {
+            float: left;
+            width: 302px;
+            height: 383px;
+            margin-left: 0px;
+        }
+        .auto-style4 {
+            text-shadow: 0px 0px 15px #ffaf00;
+            font-family: "Buxton Sketch";
+            font-size: xx-large;
+            height: 149px;
+        }
+        .auto-style5 {
+            width: 637px;
+            height: 383px;
+            float: left;
+        }
+        .newStyle8 {
+            font-family: cursive;
+        }
+    </style>
+</head>
+<body style="text-align: center;padding:30px; height: 529px; background-color:#171515">
+    <form id="form1" runat="server">
+    <div class="auto-style4" style="text-align: center; box-shadow: 0px 5px 10px #ffaf00;">
+       
+        <span class="newStyle2">f</span><span class="newStyle4">ile </span><span class="newStyle7">M</span><span class="newStyle4">anager</span></div>
+       
+        <div style="align-content:center; text-align: center;margin-left:250px; margin-top:25px; box-shadow: 0px -5px 10px #ffaf00;" class="auto-style3">
+
+            <img alt="" aria-orientation="vertical" class="auto-style1" src="Images/icon.png" style="margin-top:58px" />
+
+        </div>
+        <div class="auto-style5" style=" box-shadow: 0px -5px 10px #ffaf00;margin-top:25px;margin-left:15px;background-color:white">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    <a href="register.aspx">register.aspx</a></p>
+                <p>
+                    <a href="Default.aspx">Default.aspx</a></p>
+                <p>
+                    <a href="forget.aspx">forget.aspx</a></p>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

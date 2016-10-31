@@ -1,0 +1,5 @@
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_24\Assignment1_24\bin\Debug\Assignment1_24.exe.config
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_24\Assignment1_24\bin\Debug\Assignment1_24.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_24\Assignment1_24\bin\Debug\Assignment1_24.pdb
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_24\Assignment1_24\obj\Debug\Assignment1_24.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_24\Assignment1_24\obj\Debug\Assignment1_24.pdb

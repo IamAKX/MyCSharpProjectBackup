@@ -1,0 +1,6 @@
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.exe.config
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.pdb
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.csprojResolveAssemblyReference.cache
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.pdb

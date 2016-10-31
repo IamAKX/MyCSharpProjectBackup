@@ -1,0 +1,5 @@
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+c:\users\akash giri\documents\visual studio 2013\Projects\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
